@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stella
-- 👀 I’m interested in golf, pickleball and coding...
+- 👀 I’m interested in golf, pickleball and now coding :)  
 - 🌱 I’m currently learning back end development...
-- 📫 How to reach me stellamdobson@gmail.com
+- 📫 You can reach me stellamdobson@gmail.com
 
 
 <!---
